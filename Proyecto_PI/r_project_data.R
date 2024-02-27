@@ -62,15 +62,12 @@ coloresT2 = c("#00688B","#009ACD","#00B2EE","#00BFFF")
 coloresT3 = c("#8B3A3A","#CD5555","#EE6363","#FF6A6A")
 
 #GRAFICA EDAD VS SALARIO
-mosaicplot(tB_edad_Sal, col = coloresT2, ylab="Salario" , xlab= "Rangos de edad" , cex= 1, main="Salario segun edad", margin=0.1)
+mosaicplot(tB_edad_Sal, col = coloresT1, ylab="Salario" , xlab= "Rangos de edad" , cex= 1, main="Salario segun edad", margin=0.1)
 
 #GRAFICA EDAD VS HIJOS
 mosaicplot(tB_edad_Hijos, col = coloresT2, ylab="Hijos" , xlab= "Rangos de edad" , cex= 1, main="Hijos segun edad", margin=0.1)
 
 #GRAFICA SALARIO VS HIJOS
 mosaicplot(tB_Salario_Hijos, col = coloresT3, ylab="Hijos" , xlab= "Salario" , cex= 1, main="Hijos segun salario", margin=0.1)
-
-
-#newBranch
 
 
