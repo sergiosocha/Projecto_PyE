@@ -1,0 +1,121 @@
+Name, Age, Height (cm), Weight (kg), Favorite Color, City of Residence, Salary, Amount of Children, Favorite Drink
+John Doe, 35, 180, 75, Blue, New York, 75000, 2, Coffee
+Jane Smith, 28, 165, 60, Red, Los Angeles, 65000, 0, Tea
+Michael Johnson, 42, 175, 80, Green, Chicago, 80000, 3, Beer
+Emily Brown, 31, 170, 65, Purple, San Francisco, 70000, 1, Wine
+David Lee, 45, 185, 90, Black, Houston, 90000, 2, Whiskey
+Sarah Wang, 38, 160, 55, Yellow, Seattle, 85000, 2, Water
+Aiden Taylor, 29, 177, 70, Orange, Miami, 70000, 0, Juice
+Olivia Garcia, 33, 172, 68, Pink, Atlanta, 72000, 1, Smoothie
+Mark Rodriguez, 40, 178, 78, Blue, Boston, 82000, 2, Coffee
+Emma Martinez, 27, 163, 58, Green, Dallas, 68000, 0, Tea
+Christopher Nguyen, 39, 176, 85, Purple, San Diego, 78000, 1, Beer
+Sophia Hernandez, 32, 168, 63, Red, Philadelphia, 74000, 2, Wine
+James Kim, 44, 182, 88, Black, Phoenix, 92000, 3, Whiskey
+Lily Lopez, 37, 158, 52, Yellow, Denver, 88000, 1, Water
+William Chang, 30, 175, 72, Orange, Washington D.C., 76000, 0, Juice
+Mia Patel, 34, 170, 70, Pink, Austin, 79000, 1, Smoothie
+Ethan Smith, 28, 180, 77, Blue, Las Vegas, 72000, 2, Coffee
+Isabella Kim, 41, 167, 65, Green, Orlando, 84000, 2, Tea
+Alexander Nguyen, 36, 174, 73, Red, San Antonio, 77000, 0, Beer
+Sophia Lee, 29, 169, 60, Purple, Minneapolis, 71000, 1, Wine
+Alice Johnson, 36, 165, 55, Blue, Seattle, 70000, 1, Coffee
+Benjamin Smith, 31, 175, 70, Green, New York, 80000, 2, Tea
+Charlotte Brown, 29, 160, 60, Red, Los Angeles, 75000, 0, Beer
+Daniel Martinez, 40, 180, 85, Yellow, Chicago, 90000, 3, Wine
+Ella Williams, 27, 170, 65, Purple, San Francisco, 72000, 1, Water
+Finnegan O'Connor, 33, 178, 75, Orange, Boston, 82000, 2, Juice
+Grace Kim, 39, 172, 68, Pink, Dallas, 85000, 1, Smoothie
+Henry Nguyen, 35, 175, 80, Black, Miami, 88000, 2, Coffee
+Isabella Rodriguez, 28, 168, 62, Blue, Philadelphia, 74000, 0, Tea
+Jacob Patel, 42, 185, 90, Green, Houston, 92000, 3, Beer
+Katherine Garcia, 30, 163, 58, Red, Phoenix, 76000, 1, Wine
+Liam Hernandez, 37, 180, 85, Yellow, Denver, 92000, 2, Whiskey
+Mia Lopez, 32, 167, 63, Orange, San Diego, 79000, 0, Water
+Noah Chang, 34, 172, 70, Pink, Washington D.C., 80000, 1, Juice
+Olivia Nguyen, 29, 175, 68, Blue, Austin, 77000, 2, Smoothie
+Parker Smith, 38, 178, 75, Green, Las Vegas, 85000, 1, Coffee
+Quinn Johnson, 26, 170, 65, Red, Orlando, 72000, 0, Tea
+Riley Brown, 41, 180, 88, Yellow, Minneapolis, 92000, 2, Beer
+Sophia Martinez, 27, 163, 55, Purple, San Antonio, 74000, 1, Wine
+Thomas Lee, 43, 185, 95, Black, Atlanta, 94000, 3, Whiskey
+Emily Johnson, 35, 170, 60, Blue, Chicago, 75000, 1, Coffee
+Matthew Smith, 29, 175, 70, Green, Houston, 80000, 2, Tea
+Chloe Brown, 32, 165, 65, Red, Los Angeles, 72000, 0, Beer
+Daniel Garcia, 38, 180, 85, Yellow, Miami, 85000, 3, Wine
+Sophia Williams, 26, 165, 55, Purple, San Francisco, 70000, 1, Water
+Jackson Martinez, 36, 185, 90, Orange, New York, 90000, 2, Juice
+Ava Lee, 30, 168, 62, Pink, Seattle, 78000, 1, Smoothie
+Liam Brown, 37, 178, 75, Blue, San Diego, 82000, 2, Coffee
+Olivia Nguyen, 31, 172, 68, Green, Denver, 76000, 1, Tea
+Emma Kim, 40, 175, 80, Red, Dallas, 88000, 2, Beer
+Mason Rodriguez, 28, 170, 65, Yellow, Phoenix, 73000, 0, Wine
+Aria Hernandez, 33, 173, 67, Purple, Boston, 79000, 1, Water
+Ethan Patel, 39, 182, 88, Orange, San Antonio, 85000, 2, Juice
+Aiden Chang, 27, 177, 72, Pink, Washington D.C., 74000, 0, Smoothie
+Charlotte Nguyen, 42, 168, 65, Blue, Las Vegas, 92000, 3, Coffee
+Luna Smith, 28, 166, 58, Green, Atlanta, 77000, 1, Tea
+James Johnson, 41, 180, 85, Red, Orlando, 90000, 2, Beer
+Sophie Brown, 25, 163, 55, Yellow, Minneapolis, 72000, 0, Wine
+Noah Martinez, 44, 178, 80, Orange, Philadelphia, 92000, 2, Whiskey
+Avery Lee, 29, 172, 68, Purple, Austin, 75000, 1, Water
+Emma Johnson, 34, 165, 55, Blue, Seattle, 70000, 1, Coffee
+Alexander Smith, 28, 175, 70, Green, New York, 80000, 2, Tea
+Sophia Brown, 31, 163, 60, Red, Los Angeles, 72000, 0, Beer
+William Garcia, 39, 180, 85, Yellow, Chicago, 85000, 3, Wine
+Olivia Williams, 27, 170, 65, Purple, San Francisco, 70000, 1, Water
+James Martinez, 35, 185, 90, Orange, Miami, 90000, 2, Juice
+Ava Lee, 29, 168, 62, Pink, Seattle, 78000, 1, Smoothie
+Ethan Brown, 38, 178, 75, Blue, San Diego, 82000, 2, Coffee
+Isabella Nguyen, 32, 172, 68, Green, Denver, 76000, 1, Tea
+Noah Kim, 40, 175, 80, Red, Dallas, 88000, 2, Beer
+Mia Rodriguez, 26, 170, 65, Yellow, Phoenix, 73000, 0, Wine
+Elijah Hernandez, 33, 173, 67, Purple, Boston, 79000, 1, Water
+Sophia Patel, 39, 182, 88, Orange, San Antonio, 85000, 2, Juice
+Logan Chang, 28, 177, 72, Pink, Washington D.C., 74000, 0, Smoothie
+Charlotte Nguyen, 41, 168, 65, Blue, Las Vegas, 92000, 3, Coffee
+Lucas Smith, 27, 166, 58, Green, Atlanta, 77000, 1, Tea
+Ella Johnson, 40, 180, 85, Red, Orlando, 90000, 2, Beer
+Benjamin Brown, 26, 163, 55, Yellow, Minneapolis, 72000, 0, Wine
+Amelia Martinez, 43, 178, 80, Orange, Philadelphia, 92000, 2, Whiskey
+Daniel Lee, 30, 172, 68, Purple, Austin, 75000, 1, Water
+Sophia Johnson, 35, 170, 60, Blue, Seattle, 75000, 1, Coffee
+Ethan Smith, 29, 175, 70, Green, New York, 80000, 2, Tea
+Olivia Brown, 32, 163, 60, Red, Los Angeles, 72000, 0, Beer
+William Garcia, 39, 180, 85, Yellow, Chicago, 85000, 3, Wine
+Ava Williams, 27, 170, 65, Purple, San Francisco, 70000, 1, Water
+James Martinez, 35, 185, 90, Orange, Miami, 90000, 2, Juice
+Emma Lee, 29, 168, 62, Pink, Seattle, 78000, 1, Smoothie
+Alexander Brown, 38, 178, 75, Blue, San Diego, 82000, 2, Coffee
+Isabella Nguyen, 32, 172, 68, Green, Denver, 76000, 1, Tea
+Noah Kim, 40, 175, 80, Red, Dallas, 88000, 2, Beer
+Mia Rodriguez, 26, 170, 65, Yellow, Phoenix, 73000, 0, Wine
+Elijah Hernandez, 33, 173, 67, Purple, Boston, 79000, 1, Water
+Sophia Patel, 39, 182, 88, Orange, San Antonio, 85000, 2, Juice
+Logan Chang, 28, 177, 72, Pink, Washington D.C., 74000, 0, Smoothie
+Charlotte Nguyen, 41, 168, 65, Blue, Las Vegas, 92000, 3, Coffee
+Lucas Smith, 27, 166, 58, Green, Atlanta, 77000, 1, Tea
+Ella Johnson, 40, 180, 85, Red, Orlando, 90000, 2, Beer
+Benjamin Brown, 26, 163, 55, Yellow, Minneapolis, 72000, 0, Wine
+Amelia Martinez, 43, 178, 80, Orange, Philadelphia, 92000, 2, Whiskey
+Daniel Lee, 30, 172, 68, Purple, Austin, 75000, 1, Water
+Emma Davis, 34, 168, 62, Blue, Seattle, 72000, 1, Coffee
+Liam Johnson, 27, 175, 68, Green, New York, 80000, 2, Tea
+Olivia Martinez, 30, 163, 55, Red, Los Angeles, 70000, 0, Beer
+William Rodriguez, 40, 180, 85, Yellow, Chicago, 85000, 3, Wine
+Sophia Thompson, 29, 167, 63, Purple, San Francisco, 73000, 1, Water
+Noah Wilson, 35, 185, 90, Orange, Miami, 90000, 2, Juice
+Ava Harris, 32, 170, 65, Pink, Seattle, 78000, 1, Smoothie
+Alexander King, 38, 178, 75, Blue, San Diego, 82000, 2, Coffee
+Isabella White, 31, 170, 68, Green, Denver, 76000, 1, Tea
+Ethan Nguyen, 39, 177, 80, Red, Dallas, 88000, 2, Beer
+Mia Anderson, 26, 165, 60, Yellow, Phoenix, 74000, 0, Wine
+Elijah Moore, 33, 173, 70, Purple, Boston, 79000, 1, Water
+Sophia Baker, 36, 182, 88, Orange, San Antonio, 85000, 2, Juice
+Logan Carter, 28, 176, 72, Pink, Washington D.C., 75000, 0, Smoothie
+Charlotte Cooper, 41, 168, 65, Blue, Las Vegas, 92000, 3, Coffee
+Lucas Gray, 25, 170, 62, Green, Atlanta, 77000, 1, Tea
+Ella Taylor, 39, 175, 75, Red, Orlando, 90000, 2, Beer
+Benjamin Hill, 28, 163, 58, Yellow, Minneapolis, 71000, 0, Wine
+Amelia Scott, 42, 172, 70, Orange, Philadelphia, 92000, 2, Whiskey
+Daniel Morris, 31, 170, 68, Purple, Austin, 75000, 1, Water
