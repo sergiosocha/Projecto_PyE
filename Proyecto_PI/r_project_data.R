@@ -24,6 +24,7 @@ Tb$ri=Tb$fi/n
 Tb$Fi=cumsum(Tb$fi)
 Tb$Ri=cumsum(Tb$ri)
 
+#Creacion de variable con datos de edad
 valNew = dataInf$Age
 
 #Creacion de Histogramas adicionalmente definimos los limites con la funcion c() que nos ayuda a definir
@@ -42,17 +43,34 @@ print(tB_edad_Sal)
 
 #Tabla de contingencia (Edad vs Hijos)
 tB_edad_Hijos = table(cut(dataInf$Age, breaks=c(20,25,30,35,40,45) ),dataInf$Amount.of.Children)
-colnames(tB_edad_Hijos) = c("0 hijos","1 hijo","2 hijos","3 hijos")
+colnames(tB_edad_Hijos) = c("0","1","2","3")
 print(tB_edad_Hijos)
 
 #Tabla de contingencia (Edad vs Hijos)
 tB_Salario_Hijos = table(cut(dataInf$Salary, breaks = c( 60000, 70000, 80000, 90000, 100000)),dataInf$Amount.of.Children)
-colnames(tB_Salario_Hijos) = c("0 hijos","1 hijo","2 hijos","3 hijos")
+colnames(tB_Salario_Hijos) = c("0","1","2","3")
 rownames(tB_Salario_Hijos) = c("60k+","70k+","80k+","90k+")
 print(tB_Salario_Hijos)
 
-#___________________CREACION DE GRAFICAS_________________________
-colores = c("#EE3B3B","#CDAA7D","#8EE5EE","#FFF8DC")
+#_________________________CREACION DE GRAFICAS_________________________#
 
-barplot(tB_Salario_Hijos, col = colores, ylab="Edad" , xlab= "numero hijos" )
+#Usaremos mosaic plot porque es la mejor forma de visualizar los datos, para el analisis que estamos realizando
+
+#Configuramos variables para colores
+coloresT1 = c("#548B54","#7CCD7C","#90EE90","#9AFF9A")
+coloresT2 = c("#00688B","#009ACD","#00B2EE","#00BFFF")
+coloresT3 = c("#8B3A3A","#CD5555","#EE6363","#FF6A6A")
+
+#GRAFICA EDAD VS SALARIO
+mosaicplot(tB_edad_Sal, col = coloresT2, ylab="Salario" , xlab= "Rangos de edad" , cex= 1, main="Salario segun edad", margin=0.1)
+
+#GRAFICA EDAD VS HIJOS
+mosaicplot(tB_edad_Hijos, col = coloresT2, ylab="Hijos" , xlab= "Rangos de edad" , cex= 1, main="Hijos segun edad", margin=0.1)
+
+#GRAFICA SALARIO VS HIJOS
+mosaicplot(tB_Salario_Hijos, col = coloresT3, ylab="Hijos" , xlab= "Salario" , cex= 1, main="Hijos segun salario", margin=0.1)
+
+
+#newBranch
+
 
